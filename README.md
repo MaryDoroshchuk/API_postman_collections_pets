@@ -1,4 +1,4 @@
-# Doroshchuk_postman_collections_pets
+# API_postman_collections_pets
 
 This repository contains a Postman collection for testing the Petstore API, based on the [Swagger Petstore](https://petstore.swagger.io/) API documentation. This collection includes a sequence of requests to create, retrieve, update, and verify a pet entity in the store. 
 ## Collection Overview
